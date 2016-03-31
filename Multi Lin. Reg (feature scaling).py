@@ -96,9 +96,10 @@ def grad_desc(x,y,m,n,C,K):
                 continue
         else:
             flag_first=1
-        last=J
-        if (J<0.001):
+        if (J<0.001 or J==last):
             flag=1
+        if (last!=J):
+            last=J
     return C
 
 
