@@ -1,0 +1,3 @@
+Uses multivariate linear regression. Feature scaling has been implemented. I have copied more than half of the entries from 'housing.data' to 'training.data' and the remaining to 'test.data'. Auto.py uses the two files as training sets and testing sets respectively. user_inputs.py uses the entire 'housing.data' as training set, and then prompts the user to enter features.
+
+Learning rates of 1,0.1,0.01 and 0.001 have been used. Their outputs and graphs have been plotted. All graphs shown here have error along Y-axis and no.of iterations along X-axis.
