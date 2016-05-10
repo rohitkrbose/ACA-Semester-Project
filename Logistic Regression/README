@@ -1,0 +1,2 @@
+A linear model of logistic regression has been used, as a result of which accuracy has been compromised to quite a great extent (22.2%). The code is in perfect accordance with the course material.
+Auto.py plots a graph of error versus no. of iterations and prints output based on training and testing data sets. Description of data set is given in file 'haberman.names'.
