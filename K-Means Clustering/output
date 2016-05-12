@@ -1,0 +1,141 @@
+Enter number of clusters = 4
+
+
+
+Original grouping:
+
+GROUP  1
+
+Hawaii
+Iowa
+Maine
+Minnesota
+New Hampshire
+North Dakota
+South Dakota
+Vermont
+West Virginia
+Wisconsin
+
+GROUP  2
+
+Connecticut
+Idaho
+Indiana
+Kansas
+Kentucky
+Montana
+Nebraska
+Ohio
+Pennsylvania
+Utah
+
+GROUP  3
+
+Arkansas
+Colorado
+Georgia
+Massachusetts
+Missouri
+New Jersey
+Oklahoma
+Oregon
+Rhode Island
+Tennessee
+Texas
+Virginia
+Washington
+Wyoming
+
+GROUP  4
+
+Alabama
+Alaska
+Arizona
+California
+Delaware
+Florida
+Illinois
+Louisiana
+Maryland
+Michigan
+Mississippi
+Nevada
+New Mexico
+New York
+North Carolina
+South Carolina
+
+XxXxXxXxXxXxXxXxXxXxXxXxXxX
+
+New grouping:
+
+GROUP  1
+
+Connecticut
+Idaho
+Indiana
+Kansas
+Kentucky
+Montana
+Nebraska
+Ohio
+Pennsylvania
+Utah
+
+GROUP  2
+
+Alabama
+Alaska
+Arizona
+California
+Delaware
+Florida
+Illinois
+Louisiana
+Maryland
+Michigan
+Mississippi
+Nevada
+New Mexico
+New York
+North Carolina
+South Carolina
+
+GROUP  3
+
+Arkansas
+Colorado
+Georgia
+Massachusetts
+Missouri
+New Jersey
+Oklahoma
+Oregon
+Rhode Island
+Tennessee
+Texas
+Virginia
+Washington
+Wyoming
+
+GROUP  4
+
+Hawaii
+Iowa
+Maine
+Minnesota
+New Hampshire
+North Dakota
+South Dakota
+Vermont
+West Virginia
+Wisconsin
+
+
+
+------------------
+(program exited with code: 0)
+Press return to continue
+
+
