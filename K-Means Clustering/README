@@ -1,1 +1,3 @@
 This program effectively applies K-means algorithm. As instructed in the course videos, I have avoided the elbow method of selection of number of clusters, because we need to know for what purpose we are clustering. The dataset on which I have applied the algorithm, effectively requires 4 (four) centroids. This has been mentioned in the website from where the dataset was downloaded. Other than this, the algorithm has been implemented completely. Output is quite good (I think), as given grouping and calculated grouping match except for two or three data points.
+
+Dataset link: http://www.edureka.co/blog/implementing-kmeans-clustering-on-the-crime-dataset/
