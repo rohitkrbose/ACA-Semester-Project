@@ -9,3 +9,5 @@ Project Mentor: Amartya Sanyal
 Project undertaken by: Rohit Kumar Bose (150596)
 
 Work done in IIT Kanpur during the second semester, 2015-2016 session
+
+Study material was obtained from the Coursera Machine Learning course offered by Prof. Andrew NG
